@@ -19,5 +19,5 @@ Grapichs: Intel HD Graphics 530 (iGPU)
 Works for BigSur (I made a fresh install instead of updating Catalina)
 
 
-EFI Folder is in Releases.
+# EFI Folder is in Releases.
 
