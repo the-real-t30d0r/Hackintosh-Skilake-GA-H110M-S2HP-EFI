@@ -3,6 +3,5 @@
 
 
 
-# EFI Folder is in Releases.
-
+# HERE IS THE DOWNLOAD
 https://teodorcucu.net/posts/hackintosh-efi-skilake/
